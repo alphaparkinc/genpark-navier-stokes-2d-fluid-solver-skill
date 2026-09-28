@@ -1,0 +1,20 @@
+{
+  "name": "genpark-navier-stokes-2d-fluid-solver-skill",
+  "version": "1.0.0",
+  "description": "Incompressible 2D Navier-Stokes fluid dynamics grid solver with pressure Poisson Chorin projection",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "navier-stokes",
+    "computational-fluid-dynamics",
+    "cfd",
+    "fluid-simulation",
+    "physics-engine",
+    "poisson-solver",
+    "python-standard-library",
+    "agent-skills",
+    "grid-physics",
+    "differential-equations"
+  ]
+}

@@ -1,0 +1,6 @@
+name: genpark-navier-stokes-2d-fluid-solver-skill
+version: 1.0.0
+description: Incompressible 2D Navier-Stokes fluid dynamics grid solver with pressure Poisson Chorin projection
+command: python
+args:
+  - mcp_server.py
